@@ -1,7 +1,7 @@
 # OS-Project
 Contributors: 
-1. Kevin Mathew Maran - UTSA - MS CS (github.com/KevinMathew1709)
-2. Spandana Mary Gurivireddy - UTSA - MS CS (github.com/maryspandana11)
+1. Kevin Mathew Maran - UTSA - MS CS (https://github.com/KevinMathew1709)
+2. Spandana Mary Gurivireddy - UTSA - MS CS (https://github.com/maryspandana11)
 
 RPC Math Server and Client
 •	Setting up Math server:
